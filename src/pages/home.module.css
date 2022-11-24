@@ -1,0 +1,8 @@
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 64px;
+    font-weight: 700;
+    height: calc(80vh + 64px);
+}
